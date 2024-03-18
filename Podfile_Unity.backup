@@ -1,0 +1,36 @@
+source 'https://cdn.cocoapods.org/'
+source 'https://github.com/CocoaPods/Specs'
+
+platform :ios, '12.4'
+
+target 'UnityFramework' do
+  pod 'AppLovinMediationAdColonyAdapter', '4.9.0.0.4'
+  pod 'AppLovinMediationByteDanceAdapter', '5.4.1.0.0'
+  pod 'AppLovinMediationChartboostAdapter', '9.4.0.1'
+  pod 'AppLovinMediationCSJAdapter', '4.9.0.7.2'
+  pod 'AppLovinMediationFacebookAdapter', '6.14.0.0'
+  pod 'AppLovinMediationFyberAdapter', '8.2.4.0'
+  pod 'AppLovinMediationGoogleAdapter', '10.10.0.0'
+  pod 'AppLovinMediationGoogleAdManagerAdapter', '10.10.0.0'
+  pod 'AppLovinMediationInMobiAdapter', '10.5.6.0'
+  pod 'AppLovinMediationIronSourceAdapter', '7.5.0.0.0'
+  pod 'AppLovinMediationMintegralAdapter', '7.4.3.0.0'
+  pod 'AppLovinMediationMyTargetAdapter', '5.19.0.0'
+  pod 'AppLovinMediationTapjoyAdapter', '13.1.2.0'
+  pod 'AppLovinMediationUnityAdsAdapter', '4.8.0.1'
+  pod 'AppLovinMediationVerveAdapter', '2.19.0.0'
+  pod 'AppLovinMediationVungleAdapter', '7.0.1.0'
+  pod 'AppLovinMediationYandexAdapter', '5.9.1.0'
+  pod 'AppLovinSDK', '11.11.3'
+  pod 'AppsFlyer-AdRevenue'
+  pod 'bigo-ads-max-adapter', '2.3.5.1'
+  pod 'FBSDKCoreKit/Swift'
+  pod 'FirebaseAnalytics'
+  pod 'FirebaseCrashlytics'
+  pod 'FirebaseMessaging'
+  pod 'FirebaseRemoteConfig'
+  pod 'Google-Mobile-Ads-SDK', '~> 10.9'
+end
+target 'Unity-iPhone' do
+end
+use_frameworks! :linkage => :static

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>mrect_type</key>
+  <string>0</string>
+  <key>banner_type</key>
+  <string>0</string>
+  <key>show_open_ads</key>
+  <string>true</string>
+  <key>rating_popup</key>
+  <string>true</string>
+  <key>rating_location</key>
+  <string>2</string>
+  <key>show_open_ads_first_open</key>
+  <string>true</string>
+  <key>show_inter_when_wrong</key>
+  <string>false</string>
+  <key>show_inter_gameplay_to_map</key>
+  <string>true</string>
+  <key>inter_chance</key>
+  <string>4</string>
+  <key>resume_ads</key>
+  <string>true</string>
+  <key>ads_interval</key>
+  <string>1</string>
+</dict>
+</plist>

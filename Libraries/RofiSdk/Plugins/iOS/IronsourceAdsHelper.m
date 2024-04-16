@@ -8,7 +8,7 @@
 
 #define INTERNAL_TIME 1.0
 
-#define TEST NO
+#define TEST YES
 
 #import "IronsourceAdsHelper.h"
 #import "InitializationDelegate.h"
